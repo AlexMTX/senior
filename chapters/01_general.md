@@ -1,3 +1,5 @@
+* [Contents](../README.md)
+
 <!-- TOC -->
 * [General information](#general-information)
   * [Mutable and Immutable Objects](#mutable-and-immutable-objects)
