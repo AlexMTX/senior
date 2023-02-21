@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Logging](#logging)
   * [Health Check](#health-check)

@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Release Strategies](#release-strategies)
   * [Centralized or Trunk Based approach](#centralized-or-trunk-based-approach)

@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Code Review Process](#code-review-process)
   * [Explains Pros and Cons of Pre- and Post-commit Code Reviews](#explains-pros-and-cons-of-pre--and-post-commit-code-reviews)

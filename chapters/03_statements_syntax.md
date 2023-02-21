@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Statements and Syntax](#statements-and-syntax)
   * [Iteration protocol](#iteration-protocol)

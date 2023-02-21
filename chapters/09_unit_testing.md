@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Unit testing in Python](#unit-testing-in-python)
   * [Mock objects](#mock-objects)

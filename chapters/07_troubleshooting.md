@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Troubleshooting](#troubleshooting)
   * [Types of profilers, static and dynamic profilers](#types-of-profilers-static-and-dynamic-profilers)

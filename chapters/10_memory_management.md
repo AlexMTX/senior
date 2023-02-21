@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Memory management](#memory-management)
   * [3 generations of GC](#3-generations-of-gc)

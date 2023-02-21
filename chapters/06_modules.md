@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Modules](#modules)
   * [Module reload, importlib](#module-reload-importlib)

@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Scopes](#scopes)
   * [LEGB rule](#legb-rule)

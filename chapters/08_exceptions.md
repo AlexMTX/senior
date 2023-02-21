@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Exceptions](#exceptions)
   * [Context managers, contextlib decorator, with-enabled class](#context-managers-contextlib-decorator-with-enabled-class)

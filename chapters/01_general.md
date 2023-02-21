@@ -1,4 +1,4 @@
-* [Contents](../README.md)
+* [^ Contents](../README.md)
 
 <!-- TOC -->
 * [General information](#general-information)

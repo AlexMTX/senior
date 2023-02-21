@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Python and C interaction](#python-and-c-interaction)
   * [C ext API,call C from python, call python from C](#c-ext-apicall-c-from-python-call-python-from-c)

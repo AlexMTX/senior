@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Cross-discipline questions](#cross-discipline-questions)
   * [Design patterns Cheatsheet](#design-patterns-cheatsheet)

@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Python standard library](#python-standard-library)
   * [Advanced knowledge of standard library](#advanced-knowledge-of-standard-library)

@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Functions](#functions)
   * [When and how many times are default arguments evaluated?](#when-and-how-many-times-are-default-arguments-evaluated)

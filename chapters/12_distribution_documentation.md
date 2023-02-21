@@ -1,3 +1,5 @@
+* [^ Contents](../README.md)
+
 <!-- TOC -->
 * [Distribution and documentation](#distribution-and-documentation)
   * [distutils, setup.py](#distutils-setuppy)
